@@ -36,4 +36,4 @@ You can find some of my coding projects and contributions on [GitHub](https://gi
 
 ## Let's Connect! 🤝
 
-I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/analu-lopez/) or via email at [annalucable@gmail.com]. Let's connect and create something amazing together! 📩
+I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/analu-lopez/) or via email at annalucable@gmail.com. Let's connect and create something amazing together! 📩
