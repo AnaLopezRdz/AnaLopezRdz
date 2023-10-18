@@ -1,4 +1,7 @@
 # Hi there! 👋🌟
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/analu-lopez/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-333)](https://github.com/AnaLopezRdz)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:annalucable@gmail.com)
 
 I'm Ana Lopez, a dedicated web developer and former teacher who also wears the hat of a bar manager. 🚀
 
